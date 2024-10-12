@@ -1,1 +1,2 @@
 This is a two file.
+bug fixed.
